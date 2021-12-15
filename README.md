@@ -90,7 +90,8 @@ r2_score(y_test, y_pred)
 
 ## Conclusions
 
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+* cnt is dependent on temp.
+* cnt is highly correlated with yr as well.
+* Number of bikes shared in 2019 increased from 2018.
+* There is Negative correlation of Light Snow, Spring and windspeed.
+* Weather conditions affect the bike sharing when it is snowy, or rainy. Same effect when windspeed is high.
